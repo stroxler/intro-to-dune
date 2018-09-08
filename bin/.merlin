@@ -1,0 +1,11 @@
+B /Users/apple/.opam/system/lib/bytes
+B /Users/apple/.opam/system/lib/cmdliner
+B /Users/apple/.opam/system/lib/result
+B ../_build/default/bin/.cli.eobjs
+B ../_build/default/src/.math.objs
+S /Users/apple/.opam/system/lib/bytes
+S /Users/apple/.opam/system/lib/cmdliner
+S /Users/apple/.opam/system/lib/result
+S .
+S ../src
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs

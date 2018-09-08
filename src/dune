@@ -1,0 +1,7 @@
+(library 
+  (name math)
+  (synopsis "Math utilities"))
+
+(rule
+  (with-stdout-to primes100.ml
+    (run gen/gen_primes100.exe)))
